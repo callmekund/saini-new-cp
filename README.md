@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Gaurav+Uploader+Bot+!)
 
 ***Welcome to DRM bot made by @nikhil.saini.khe (Instagram)***
 
